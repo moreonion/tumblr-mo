@@ -94,7 +94,7 @@
 .post footer .share_buttons_raw a.email_signup_link:focus,
 .post footer .share_buttons a.email_signup_link:focus {
   background-position: 0 -382px;
-  background-color: #c5416c;
+  background-color: #8b72ae;
 }
 .share_buttons_raw a:hover,
 .share_buttons a:hover,
@@ -104,5 +104,5 @@
 .share_buttons a:focus,
 .post footer .share_buttons_raw a:focus,
 .post footer .share_buttons a:focus {
-  background-color: #8f7bad;
+  background-color: #8b72ae;
 }
