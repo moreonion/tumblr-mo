@@ -51,7 +51,7 @@
 .share_buttons a.fb_share_link,
 .post footer .share_buttons_raw a.fb_share_link,
 .post footer .share_buttons a.fb_share_link {
-  background-position: 0 -112px;
+  background-position: 0 -127px;
   background-color: #3F5AA7;
   text-shadow: 1px 1px 1px #2a3c6f;
   border: 1px solid #2a3c6f;
@@ -64,7 +64,7 @@
 .share_buttons a.fb_share_link:focus,
 .post footer .share_buttons_raw a.fb_share_link:focus,
 .post footer .share_buttons a.fb_share_link:focus {
-  background-position: 0 -169px;
+  background-position: 0 -187px;
   background-color: #4563B7;
 }
 .share_buttons_raw a.tw_share_link,
@@ -84,7 +84,7 @@
 .share_buttons a.tw_share_link:focus,
 .post footer .share_buttons_raw a.tw_share_link:focus,
 .post footer .share_buttons a.tw_share_link:focus {
-  background-position: 0 -62px;
+  background-position: 0 -69px;
   background-color: #26C7F3;
 }
 .share_buttons_raw a.email_share_link,
@@ -95,7 +95,7 @@
 .share_buttons a.email_signup_link,
 .post footer .share_buttons_raw a.email_signup_link,
 .post footer .share_buttons a.email_signup_link {
-  background-position: 0 -231px;
+  background-position: 0 -255px;
 }
 .share_buttons_raw a.email_share_link:hover,
 .share_buttons a.email_share_link:hover,
@@ -113,7 +113,7 @@
 .share_buttons a.email_signup_link:focus,
 .post footer .share_buttons_raw a.email_signup_link:focus,
 .post footer .share_buttons a.email_signup_link:focus {
-  background-position: 0 -286px;
+  background-position: 0 -317px;
   background-color: #8b72ae;
 }
 .share_buttons_raw a:hover,
