@@ -14,6 +14,10 @@
 .clearfix:after {
   clear: both;
 }
+/* heading colours */
+h1 {
+  color: #826ba3;
+}
 /* share buttons */
 .share_buttons_raw a,
 .share_buttons a,
